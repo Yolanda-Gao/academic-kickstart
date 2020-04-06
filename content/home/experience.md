@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Work Experiences"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,24 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Intern"
+  company = "Facebook"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Menlo Park, CA"
+  date_start = "2019-05-20"
+  date_end = "2019-08-23"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Worked with Facebook AI Text-to-speech (TTS) team 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "System Research Intern"
+  company = "Baidu Research USA"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Sunnyvale, CA"
+  date_start = "2018-05-21"
+  date_end = "2018-08-24"
+  description = """
+  Worked with Baidu DeepVoice team 
+  """
 +++

@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Nelson Bighetti
-
+name: Yang (Yolanda) Gao 
+ 
 # Username (this should match the folder name)
 authors:
 - admin
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Electrical and Computer Engineering, Carnegie Mellon University 
+  url: "https://www.ece.cmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD candidate in Electrical and Computer Engineering, Carnegie Mellon University, supervised by Prof. Rita Singh and Prof. Bhiksha Raj. Before my PhD, I obtained my research-option master degree in Biomedical Engineering at Carnegie Mellon University, advised by Prof. Yongjie (Jessica) Zhang. I got my bachelar degree in Huazhong University of Science and Technology in bio-engineering.  
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning 
+- Speech analysis
+- Signal processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Electrical and Computer Engineering
+    institution: Carnegie Mellon University
+    year: 2015 - now
+  - course: MEng in Biomedical Engineering
+    institution: Carnegie Mellon University
+    year: 2015
+  - course: BSc in Bioengineering
+    institution: Huazhong University of Science and Technology
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:Yolandac.Gao@gmail.com"   # '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/yang-gao-8702a981/ 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=5qpA0WwAAAAJ 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Yolanda-Gao  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,7 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD candidate in Electrical and Computer Engineering, Carnegie Mellon University, supervised by Prof. Rita Singh and Prof. Bhiksha Raj. Before my PhD, I obtained my research-option master degree in Biomedical Engineering at Carnegie Mellon University, advised by Prof. Yongjie (Jessica) Zhang. I got my bachelar degree in Huazhong University of Science and Technology in bio-engineering.
