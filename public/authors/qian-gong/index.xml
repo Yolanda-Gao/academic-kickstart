@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qian Gong | Yang (Yolanda) Gao</title>
+    <link>https://Yolanda-Gao.github.io/authors/qian-gong/</link>
+      <atom:link href="https://Yolanda-Gao.github.io/authors/qian-gong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qian Gong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Qian Gong</title>
+      <link>https://Yolanda-Gao.github.io/authors/qian-gong/</link>
+    </image>
+    
+    <item>
+      <title>Scale optimization for full-image-CNN vehicle detection</title>
+      <link>https://Yolanda-Gao.github.io/publication/gao-2017-scale/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/gao-2017-scale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

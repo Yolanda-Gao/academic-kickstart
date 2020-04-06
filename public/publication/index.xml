@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yang (Yolanda) Gao</title>
+    <link>https://Yolanda-Gao.github.io/publication/</link>
+      <atom:link href="https://Yolanda-Gao.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>https://Yolanda-Gao.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Interactive Text-to-Speech via Semi-supervised Style Transfer Learning</title>
+      <link>https://Yolanda-Gao.github.io/publication/gao-2020-interactive/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/gao-2020-interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Routing Mixture of Experts</title>
+      <link>https://Yolanda-Gao.github.io/publication/zhao-2019-hierarchical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/zhao-2019-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice impersonation using generative adversarial networks</title>
+      <link>https://Yolanda-Gao.github.io/publication/gao-2018-voice/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/gao-2018-voice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale optimization for full-image-CNN vehicle detection</title>
+      <link>https://Yolanda-Gao.github.io/publication/gao-2017-scale/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/gao-2017-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker identification from the sound of the human breath</title>
+      <link>https://Yolanda-Gao.github.io/publication/zhao-2017-speaker/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/zhao-2017-speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D shape comparison of cardiac geometries using a Laplace spectral-shape-matching approach</title>
+      <link>https://Yolanda-Gao.github.io/publication/gao-20163-d/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/gao-20163-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

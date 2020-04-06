@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prahlad G Menon | Yang (Yolanda) Gao</title>
+    <link>https://Yolanda-Gao.github.io/authors/prahlad-g-menon/</link>
+      <atom:link href="https://Yolanda-Gao.github.io/authors/prahlad-g-menon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prahlad G Menon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Prahlad G Menon</title>
+      <link>https://Yolanda-Gao.github.io/authors/prahlad-g-menon/</link>
+    </image>
+    
+    <item>
+      <title>3D shape comparison of cardiac geometries using a Laplace spectral-shape-matching approach</title>
+      <link>https://Yolanda-Gao.github.io/publication/gao-20163-d/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/gao-20163-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

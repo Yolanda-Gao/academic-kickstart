@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Fuegen | Yang (Yolanda) Gao</title>
+    <link>https://Yolanda-Gao.github.io/authors/christian-fuegen/</link>
+      <atom:link href="https://Yolanda-Gao.github.io/authors/christian-fuegen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Fuegen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Christian Fuegen</title>
+      <link>https://Yolanda-Gao.github.io/authors/christian-fuegen/</link>
+    </image>
+    
+    <item>
+      <title>Interactive Text-to-Speech via Semi-supervised Style Transfer Learning</title>
+      <link>https://Yolanda-Gao.github.io/publication/gao-2020-interactive/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/gao-2020-interactive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

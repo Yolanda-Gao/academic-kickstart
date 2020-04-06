@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Yang (Yolanda) Gao</title>
+    <link>https://Yolanda-Gao.github.io/project/</link>
+      <atom:link href="https://Yolanda-Gao.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2020 16:33:29 -0400</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://Yolanda-Gao.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Curveball</title>
+      <link>https://Yolanda-Gao.github.io/project/curveball/</link>
+      <pubDate>Mon, 06 Apr 2020 16:33:29 -0400</pubDate>
+      <guid>https://Yolanda-Gao.github.io/project/curveball/</guid>
+      <description>&lt;p&gt;Won best project (1/50) in CMU Convex Symposium (COPTS) 2018&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Face2voice</title>
+      <link>https://Yolanda-Gao.github.io/project/face2voice/</link>
+      <pubDate>Mon, 06 Apr 2020 16:17:45 -0400</pubDate>
+      <guid>https://Yolanda-Gao.github.io/project/face2voice/</guid>
+      <description>&lt;p&gt;Wavenet vocoder functioned as denoising in &amp;lsquo;The Rembrandt Tutorials Project&amp;rsquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

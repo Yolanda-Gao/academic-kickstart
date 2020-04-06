@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bhiksha Raj | Yang (Yolanda) Gao</title>
+    <link>https://Yolanda-Gao.github.io/authors/bhiksha-raj/</link>
+      <atom:link href="https://Yolanda-Gao.github.io/authors/bhiksha-raj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bhiksha Raj</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Bhiksha Raj</title>
+      <link>https://Yolanda-Gao.github.io/authors/bhiksha-raj/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical Routing Mixture of Experts</title>
+      <link>https://Yolanda-Gao.github.io/publication/zhao-2019-hierarchical/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/zhao-2019-hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice impersonation using generative adversarial networks</title>
+      <link>https://Yolanda-Gao.github.io/publication/gao-2018-voice/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://Yolanda-Gao.github.io/publication/gao-2018-voice/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
