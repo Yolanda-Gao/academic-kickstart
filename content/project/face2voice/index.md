@@ -39,6 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Wavenet vocoder functioned as denoising in 'The Rembrandt Tutorials Project'
+Wavenet vocoder for speech resynthesis and denoising in 'The Rembrandt Tutorials Project'
 
 
