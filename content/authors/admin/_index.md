@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a PhD candidate in Electrical and Computer Engineering, Carnegie Mellon University, supervised by Prof. Rita Singh and Prof. Bhiksha Raj. Before my PhD, I obtained my research-option master degree in Biomedical Engineering at Carnegie Mellon University, advised by Prof. Yongjie (Jessica) Zhang. I got my bachelar degree in Huazhong University of Science and Technology in bio-engineering.
+I am a PhD candidate in Electrical and Computer Engineering, Carnegie Mellon University, supervised by Prof. [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) and Prof. [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/). Before my PhD, I obtained my research-option master degree in Biomedical Engineering at Carnegie Mellon University, advised by Prof. [Yongjie (Jessica) Zhang](https://www.andrew.cmu.edu/user/jessicaz/). I got my bachelar degree in Huazhong University of Science and Technology in bio-engineering.
