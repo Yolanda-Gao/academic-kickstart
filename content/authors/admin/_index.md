@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ece.cmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in Electrical and Computer Engineering, Carnegie Mellon University, supervised by Prof. Rita Singh and Prof. Bhiksha Raj. Before my PhD, I obtained my research-option master degree in Biomedical Engineering at Carnegie Mellon University, advised by Prof. Yongjie (Jessica) Zhang. I got my bachelar degree in Huazhong University of Science and Technology in bio-engineering.  
+bio: I am a Ph.D. candidate in Electrical and Computer Engineering, Carnegie Mellon University, supervised by Prof. Rita Singh and Prof. Bhiksha Raj. Before my PhD, I obtained my research-option master degree in Biomedical Engineering at Carnegie Mellon University, advised by Prof. Yongjie (Jessica) Zhang. I got my bachelar degree in Huazhong University of Science and Technology in bio-engineering.  
 
 interests:
 - Deep Learning 
@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electrical and Computer Engineering
+  - course: Ph.D. in Electrical and Computer Engineering
     institution: Carnegie Mellon University
     year: 2015 - now
-  - course: MEng in Biomedical Engineering
+  - course: Master in Biomedical Engineering
     institution: Carnegie Mellon University
     year: 2015
-  - course: BSc in Bioengineering
+  - course: B.Sc in Bioengineering
     institution: Huazhong University of Science and Technology
     year: 2013
 
@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a PhD candidate in Electrical and Computer Engineering, Carnegie Mellon University, supervised by Prof. [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) and Prof. [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/). Before my PhD, I obtained my research-option master degree in Biomedical Engineering at Carnegie Mellon University, advised by Prof. [Yongjie (Jessica) Zhang](https://www.andrew.cmu.edu/user/jessicaz/). I got my bachelar degree in Huazhong University of Science and Technology in bio-engineering.
+I am a Ph.D. candidate in [Electrical and Computer Engineering](https://www.ece.cmu.edu/), [Carnegie Mellon University (CMU)](https://www.cmu.edu/), supervised by Prof. [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html) and Prof. [Bhiksha Raj](http://mlsp.cs.cmu.edu/people/bhiksha/). Before my PhD, I obtained my [research-option master degree](https://www.cmu.edu/bme/Academics/Graduate%20Programs/ms_program.html) in [Biomedical Engineering](https://www.cmu.edu/bme/) at Carnegie Mellon University, advised by Prof. [Yongjie (Jessica) Zhang](https://www.andrew.cmu.edu/user/jessicaz/). I got my B.Sc degree in [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/).
