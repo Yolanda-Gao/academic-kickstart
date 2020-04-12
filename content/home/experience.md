@@ -17,6 +17,18 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "10617 Intermediate Deep Learning "
+  company_url = "https://deeplearning-cmu-10417.github.io/"
+  location = "Pittsburgh, PA"
+  date_start = "2019-08-27"
+  date_end = "2019-12-15"
+  description = """
+  Instructor: Prof. [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/) 
+  """
+
 [[experience]]
   title = "Research Intern"
   company = "Facebook"
@@ -26,6 +38,17 @@ date_format = "Jan 2006"
   date_end = "2019-08-23"
   description = """
   Worked with Facebook AI Text-to-speech (TTS) team 
+  """
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "10701 Introduction to Machine Learning (PhD)"
+  company_url = "http://www.cs.cmu.edu/~pradeepr/courses/701/2018-fall/"
+  location = "Pittsburgh, PA"
+  date_start = "2018-08-28"
+  date_end = "2018-12-15"
+  description = """
+  Instructor: Prof. [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/); Prof. [Ziv Bar-Joseph](http://www.cs.cmu.edu/~zivbj/)
   """
 
 [[experience]]
