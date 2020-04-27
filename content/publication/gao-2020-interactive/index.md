@@ -7,7 +7,9 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 url_pdf: https://arxiv.org/abs/2002.06758
-# url_demo: https://yolanda-gao.github.io/Interactive-Style-TTS/
+links: 
+- name: Demo
+  url: 'https://yolanda-gao.github.io/Interactive-Style-TTS/'
 publication: "*arXiv preprint arXiv:2002.06758*"
 ---
 

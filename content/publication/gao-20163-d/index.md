@@ -6,6 +6,7 @@ authors: ["Yang Gao", "Yongjie Zhang", "Prahlad G Menon"]
 publication_types: ["2"]
 abstract: ""
 featured: false
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/21681163.2015.1057867
 publication: "*Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization*"
 ---
 
