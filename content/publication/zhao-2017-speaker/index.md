@@ -6,6 +6,7 @@ authors: ["Wenbo Zhao", "Yang Gao", "Rita Singh"]
 publication_types: ["2"]
 abstract: ""
 featured: false
+url_pdf: https://arxiv.org/abs/1712.00171
 publication: "*arXiv preprint arXiv:1712.00171*"
 ---
 

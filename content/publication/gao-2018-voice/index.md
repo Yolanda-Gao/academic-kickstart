@@ -6,6 +6,7 @@ authors: ["Yang Gao", "Rita Singh", "Bhiksha Raj"]
 publication_types: ["1"]
 abstract: ""
 featured: false
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8462018
 publication: "*2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*"
 ---
 

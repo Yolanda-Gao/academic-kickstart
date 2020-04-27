@@ -6,6 +6,7 @@ authors: ["Yang Gao", "Shouyan Guo", "Kaimin Huang", "Jiaxin Chen", "Qian Gong",
 publication_types: ["1"]
 abstract: ""
 featured: false
+url_pdf: https://arxiv.org/abs/1802.06926
 publication: "*2017 IEEE Intelligent Vehicles Symposium (IV)*"
 ---
 
